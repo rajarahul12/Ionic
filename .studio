@@ -1,0 +1,22 @@
+{
+  "server": {
+    "serverName": "icpa-mobile-server",
+    "mfpUrl": "http://127.0.0.1:9080",
+    "confidentialServerUrl": "/mfp/api/az/v1/token"
+  },
+  "type": "ionic",
+  "platforms": [
+    "android"
+  ],
+  "isAppAuth": false,
+  "isEncrypt": false,
+  "projectIcon": "C:\\Project\\cli_work\\DemoAppIonicF\\ionic\\resources\\icon.png",
+  "projectName": "DemoAppIonicF",
+  "projectVersion": "1.0.0",
+  "projectBundleId": "com.demo.push.d",
+  "isAnalyticsEnabled": true,
+  "isPush": true,
+  "isLiveUpdateEnabled": true,
+  "projectMode": "code",
+  "createdMode": "mfpdev-cli"
+}
